@@ -33,4 +33,4 @@ I enjoy writing content that informs, connects, and creates real value for reade
 
 GitHub: your GitHub link
 
-LinkedIn: your LinkedIn link
+LinkedIn: https://www.linkedin.com/in/sabikunnahar-tonima23/
