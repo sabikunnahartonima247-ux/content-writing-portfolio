@@ -26,7 +26,7 @@ I enjoy writing content that informs, connects, and creates real value for reade
 * Blog Writing
 * Research Writing
 * Proofreading
-* Professional Writing
+* Professional Writing 
 * SEO Basics
 
 ## Contact
