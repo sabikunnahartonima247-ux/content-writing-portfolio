@@ -31,6 +31,6 @@ I enjoy writing content that informs, connects, and creates real value for reade
 
 ## Contact
 
-GitHub: your GitHub link
+GitHub: https://github.com/sabikunnahartonima247-ux/content-writing-portfolio/edit/main/README.md
 
 LinkedIn: https://www.linkedin.com/in/sabikunnahar-tonima23/
