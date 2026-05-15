@@ -20,6 +20,8 @@ I enjoy writing content that informs, connects, and creates real value for reade
 
 ## 6. Strange Ways (Creative Writing)
 
+## 7. Should students use AI for learning?
+
 ## Skills
 
 * Content Writing
