@@ -28,6 +28,6 @@ I enjoy writing content that informs, connects, and creates real value for reade
 
 ## Contact
 
-GitHub: [GitHub Portfolio](https://github.com/sabikunnahartonima247-ux/content-writing-portfolio)
+GitHub: https://github.com/sabikunnahartonima247-ux/content-writing-portfolio
 
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sabikunnahar-tonima23/)
+LinkedIn: https://www.linkedin.com/in/sabikunnahar-tonima23/
