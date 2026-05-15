@@ -1,26 +1,20 @@
 # Content Writing Portfolio
 
-# About Me
+## About Me
 
-I am a student content writer passionate about creating meaningful, engaging, and human-centered content. My writing focuses on education, technology, communication, leadership, and professional development topics.
+I am a student content writer who is passionate about creating meaningful, engaging, and human-centered content. My writing focuses on education, technology, communication, leadership, and professional development topics.
 
-I enjoy writing content that informs, connects, and creates real value for readers.
+I enjoy writing content that informs, connects, and creates real value for readers. I believe good writing is not only about words but also about understanding people and expressing ideas clearly.
 
-# Writing Samples
+## Writing Samples
 
-## 1. Why Content Writing Still Matters in the Age of AI
-
-## 2. Importance of Content Writing
-
-## 3. Stock Market Basics for Beginners
-
-## 4. Why Communication Skills Matter in the Tech Industry
-
-## 5. Emotional Intelligence in Leadership
-
-## 6. Strange Ways (Creative Writing)
-
-## 7. Should students use AI for learning?
+1. Why Content Writing Still Matters in the Age of AI
+2. Importance of Content Writing
+3. Stock Market Basics for Beginners
+4. Why Communication Skills Matter in the Tech Industry
+5. Emotional Intelligence in Leadership
+6. Strange Ways (Creative Writing)
+7. Should Students Use AI for Learning? (AI Response Evaluation)
 
 ## Skills
 
@@ -28,11 +22,12 @@ I enjoy writing content that informs, connects, and creates real value for reade
 * Blog Writing
 * Research Writing
 * Proofreading
-* Professional Writing 
+* Professional Writing
 * SEO Basics
+* AI Content Evaluation
 
 ## Contact
 
-GitHub: https://github.com/sabikunnahartonima247-ux/content-writing-portfolio/tree/main
+GitHub: [GitHub Portfolio](https://github.com/sabikunnahartonima247-ux/content-writing-portfolio/tree/main?utm_source=chatgpt.com)
 
-LinkedIn: https://www.linkedin.com/in/sabikunnahar-tonima23/
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sabikunnahar-tonima23/?utm_source=chatgpt.com)
